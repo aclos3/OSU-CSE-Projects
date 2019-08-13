@@ -24,7 +24,7 @@ class FBoard
 {
    private:            
 	   char boardArr[8][8];  //declare 8x8 array of characters.
-	   enum gameState status;  //declare enumerated gameState type
+	   gameState status;  //declare status of gameState type
 	   int xRow;               //row tracking for x piece.
 	   int xCol;               //column tracking for x piece.
 	   void isXTrapped();   //a function to determine if x has remaining legal moves

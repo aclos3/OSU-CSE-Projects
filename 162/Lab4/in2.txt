@@ -1,0 +1,24 @@
+s
+Randy Smith
+31
+3.7
+s
+Carol Miller
+19
+3.9
+i
+Jose Cortez
+65
+4.6
+b
+Austin Hall
+19422
+2751 SW Jefferson Way
+b
+Kelley Engineering Center
+8923
+110 SW Park Terrace
+b
+Cascade Hall
+12567
+601 SW 17th Street
